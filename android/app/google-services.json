@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "589815446561",
+    "project_id": "pdfviewer-abba5",
+    "storage_bucket": "pdfviewer-abba5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589815446561:android:36a3ac58aa03fb31f4f760",
+        "android_client_info": {
+          "package_name": "com.pdfviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589815446561-sk7eub6p7anig79g4hmf87ovsv5cn95t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxZS_ejdzyK6p4sls4rM54irM18uHmBJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589815446561-sk7eub6p7anig79g4hmf87ovsv5cn95t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "589815446561-6vshrbqkhenififklog5cra22dfgv957.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shopax.pdfViewer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

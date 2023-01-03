@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>589815446561-6vshrbqkhenififklog5cra22dfgv957.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.589815446561-6vshrbqkhenififklog5cra22dfgv957</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDNaMzkCrxmh7eYUrs4PndcwfrK3y5xDb0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>589815446561</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shopax.pdfViewer</string>
+	<key>PROJECT_ID</key>
+	<string>pdfviewer-abba5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pdfviewer-abba5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:589815446561:ios:451e382204117d33f4f760</string>
+</dict>
+</plist>
